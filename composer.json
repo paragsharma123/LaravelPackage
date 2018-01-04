@@ -1,0 +1,12 @@
+{
+    "name": "parag/calculator",
+    "description": "This is my first package testing",
+    "authors": [
+        {
+            "name": "Parag Sharma",
+            "email": "paragbsharma@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
